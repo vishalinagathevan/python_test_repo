@@ -1,0 +1,7 @@
+README.md
+setup.py
+Development.egg-info/PKG-INFO
+Development.egg-info/SOURCES.txt
+Development.egg-info/dependency_links.txt
+Development.egg-info/top_level.txt
+test/test_Session.py
